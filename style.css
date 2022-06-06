@@ -344,6 +344,10 @@ section .title::after{
 }
 
 /*  sessão Contato  */
+.contact {
+    padding-top: 0px;
+    padding-bottom: 100px;
+}
 .contact .title::after{
     content: "Fale comigo";
 }
